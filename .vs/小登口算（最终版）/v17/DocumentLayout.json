@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\token\u53E3\u7B97\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{175B77BC-C027-404E-BF81-3F2379EBE2C4}|\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09.vcxproj|G:\\token\u53E3\u7B97\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\save.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{175B77BC-C027-404E-BF81-3F2379EBE2C4}|\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09.vcxproj|solutionrelative:save.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{175B77BC-C027-404E-BF81-3F2379EBE2C4}|\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09.vcxproj|G:\\token\u53E3\u7B97\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{175B77BC-C027-404E-BF81-3F2379EBE2C4}|\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,21 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "save.c",
+              "DocumentMoniker": "G:\\token\u53E3\u7B97\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\save.c",
+              "RelativeDocumentMoniker": "save.c",
+              "ToolTip": "G:\\token\u53E3\u7B97\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\save.c",
+              "RelativeToolTip": "save.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-20T14:54:51.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "G:\\token\u53E3\u7B97\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\main.c",
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "G:\\token\u53E3\u7B97\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\\u5C0F\u767B\u53E3\u7B97\uFF08\u6700\u7EC8\u7248\uFF09\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-01T07:27:01.869Z",
               "EditorCaption": ""

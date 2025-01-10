@@ -2,6 +2,7 @@
 #include <stdint.h>
 #include <time.h>
 #include <stdlib.h>
+#include <errno.h>
 
 #define FILENAME "test_records.txt"
 
@@ -21,7 +22,14 @@ void save_test_result(char* mode, u32 problem, double score) {
 	strftime(local_time_str, sizeof(local_time_str), "%Y-%m-%d %H:%M:%S", &local_time);
 
 	//´æ´¢Êý¾Ý
-	FILE* file = fopen(FILENAME, "a");
+	FILE* file = NULL;
+	errno_t err = fopen_s(&file, FILENAME, "a");
+
+	if (err != 0) {
+		perror("Error opening file");
+		return EXIT_FAILURE;
+	}
+
 	if (file) {
 		fprintf(file, "date: %s", local_time_str);
 		fprintf(file, "\tmode: %s", mode);

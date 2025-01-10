@@ -1,15 +1,5 @@
 ﻿  main.c
-  register.c
+  save.c
   正在生成代码...
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(28,9): warning C4013: “findUserByUsername”未定义；假设外部返回 int
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(36,41): warning C4047: “函数”:“rsize_t”与“char [50]”的间接级别不同
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(36,41): warning C4024: “strcpy_s”: 形参和实参 2 的类型不同
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(36,51): warning C4047: “函数”:“const char *”与“int”的间接级别不同
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(36,51): warning C4024: “strcpy_s”: 形参和实参 3 的类型不同
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(37,41): warning C4047: “函数”:“rsize_t”与“char [50]”的间接级别不同
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(37,41): warning C4024: “strcpy_s”: 形参和实参 2 的类型不同
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(37,51): warning C4047: “函数”:“const char *”与“int”的间接级别不同
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(37,51): warning C4024: “strcpy_s”: 形参和实参 3 的类型不同
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(90,13): warning C4098: “register_login”:“void”函数返回值
-G:\token口算\小登口算（最终版）\小登口算（最终版）\register.c(95,5): warning C4098: “register_login”:“void”函数返回值
-  小登口算（最终版）.vcxproj -> G:\token口算\小登口算（最终版）\小登口算（最终版）\x64\Debug\小登口算（最终版）.exe
+G:\token口算\小登口算（最终版）\小登口算（最终版）\小登口算（最终版）\save.c(30,3): warning C4098: “save_test_result”:“void”函数返回值
+  小登口算（最终版）.vcxproj -> G:\token口算\小登口算（最终版）\小登口算（最终版）\小登口算（最终版）\x64\Debug\小登口算（最终版）.exe
